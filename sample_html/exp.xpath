@@ -1,0 +1,10 @@
+//button[span[contains(text(),"Log in")]]
+
+https://classpass.com/studios/yoga-home-pompano-beach-wwpg
+
+//section[div[contains(text(), "Dan")]]/div[button]/button/span[@data-component="ReserveCta"]/text()
+
+//section[div[contains(text(), "Dan")]]/div[button]/button/span[@data-component="ReserveCta"][contains(text(), "4")]/text()
+
+# next day button
+//button[span[contains(text(), "See next day")]]
