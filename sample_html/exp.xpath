@@ -8,3 +8,9 @@ https://classpass.com/studios/yoga-home-pompano-beach-wwpg
 
 # next day button
 //button[span[contains(text(), "See next day")]]
+
+//section[div[contains(text(), "Corbin")]]/div[button]/button/span[@data-component="ReserveCta"][contains(text(), "3")]
+
+//section[div[contains(text(), "Corbin")] and div[button]/button/span[@data-component="ReserveCta"][contains(text(), "3")]]/div[@data-qa="ScheduleRow.date"]/time/span/text()
+
+//div[@data-qa='DateBar.date']
